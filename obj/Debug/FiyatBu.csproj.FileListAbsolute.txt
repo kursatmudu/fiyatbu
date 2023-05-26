@@ -1,0 +1,15 @@
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\bin\Debug\FiyatBu.exe.config
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\bin\Debug\FiyatBu.exe
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\bin\Debug\FiyatBu.pdb
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\obj\Debug\FiyatBu.csproj.AssemblyReference.cache
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\obj\Debug\FiyatBu.csproj.SuggestedBindingRedirects.cache
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\obj\Debug\FiyatBu.Form1.resources
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\obj\Debug\FiyatBu.Properties.Resources.resources
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\obj\Debug\FiyatBu.csproj.GenerateResource.cache
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\obj\Debug\FiyatBu.csproj.CoreCompileInputs.cache
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\obj\Debug\FiyatBu.exe
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\obj\Debug\FiyatBu.pdb
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\obj\Debug\FiyatBu.csproj.CopyComplete
+C:\Users\CBM\source\repos\FiyatBu\FiyatBu\bin\Debug\DarkUI.dll
