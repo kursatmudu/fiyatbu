@@ -6,7 +6,7 @@
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://github.com/kursatmudu/fiyatbu/blob/main/Images/Image1.jpg)
+![Uygulama Ekran Görüntüsü](https://github.com/kursatmudu/fiyatbu/blob/main/Images/image1.jpg)
 ![Uygulama Ekran Görüntüsü](https://github.com/kursatmudu/fiyatbu/blob/main/Images/Image2.jpg)
 ![Uygulama Ekran Görüntüsü](https://github.com/kursatmudu/fiyatbu/blob/main/Images/Image3.jpg)
 
